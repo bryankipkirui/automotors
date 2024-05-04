@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+
+.basic{
+    border: 1px solid white;
+    background-color: lightgray;
+    padding: 30px;
+
+}
+
+.standard{
+    border: 1px solid white;
+    background-color: lightgray;
+    padding: 30px;
+}
+
+.premium{
+    border: 1px solid white;
+    background-color: lightgray;
+    padding: 30px;
+}
+
+.btn{
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
